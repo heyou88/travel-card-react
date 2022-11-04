@@ -1,1 +1,1 @@
-a travel card created by react.js
+A travel card created by react.js
